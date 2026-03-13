@@ -1,4 +1,4 @@
-
+# To find the sum of all elements in an array
 def sum_array(nums):
     total = 0
 
@@ -6,6 +6,7 @@ def sum_array(nums):
         total = total + num
     return total
 
+# To find the greatest element in an array
 def great_array(nums):
     total = nums[0]
 
@@ -14,7 +15,7 @@ def great_array(nums):
             total = num
 
     return total
-
+# To find the smallest element in an array
 def small_array(nums):
     total = nums[0]
 
