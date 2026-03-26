@@ -1,4 +1,4 @@
-
+# Move non zeros in an array --> pattern - Two pointers
 nums = [1, 0, 2, 0, 3]
 
 
